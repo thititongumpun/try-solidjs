@@ -2,15 +2,15 @@ import { For, createSignal, onMount, createEffect, Component } from "solid-js";
 import axios from "axios";
 import StatsBox from "./components/StatsBox";
 
-const fetchStats = async () =>
-  await axios.get("https://tame-erin-sea-lion-tie.cyclic.app/stats"); // The API
+const API = import.meta.env.VITE_DOTA2_API as string;
+
+const fetchStats = async () => await axios.get(API);
 
 const App: Component = () => {
   const [stats, setStats] = createSignal(null);
 
   onMount(async () => {
     setStats((await fetchStats()).data);
-    console.log(stats());
   });
 
   return (
