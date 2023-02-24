@@ -1,0 +1,101 @@
+[
+  {
+    "playerId": 304906167,
+    "playerName": "เดอะแจค",
+    "avatar": "https://tame-erin-sea-lion-tie.cyclic.app/images/thejack.jpg",
+    "wl": {
+      "win": 6,
+      "lose": 4
+    }
+  },
+  {
+    "playerId": 233284542,
+    "playerName": "พี่ชาย",
+    "avatar": "https://tame-erin-sea-lion-tie.cyclic.app/images/peechai.jpg",
+    "wl": {
+      "win": 1,
+      "lose": 1
+    }
+  },
+  {
+    "playerId": 419877401,
+    "playerName": "แครี่ที่ดีที่สุดในยุคนี้",
+    "avatar": "https://tame-erin-sea-lion-tie.cyclic.app/images/thebest.jpg",
+    "wl": {
+      "win": 9,
+      "lose": 1
+    }
+  },
+  {
+    "playerId": 152744830,
+    "playerName": "เดอะตี๋",
+    "avatar": "https://tame-erin-sea-lion-tie.cyclic.app/images/thetee.jpg",
+    "wl": {
+      "win": 4,
+      "lose": 6
+    }
+  },
+  {
+    "playerId": 103902809,
+    "playerName": "จิเบิก",
+    "avatar": "https://tame-erin-sea-lion-tie.cyclic.app/images/jiberg.jpg",
+    "wl": {
+      "win": 6,
+      "lose": 4
+    }
+  },
+  {
+    "playerId": 179551302,
+    "playerName": "มอจี",
+    "avatar": "https://tame-erin-sea-lion-tie.cyclic.app/images/morg.jpg",
+    "wl": {
+      "win": 5,
+      "lose": 5
+    }
+  },
+  {
+    "playerId": 178002536,
+    "playerName": "ไอเด็ก",
+    "avatar": "https://tame-erin-sea-lion-tie.cyclic.app/images/dek.jpg",
+    "wl": {
+      "win": 4,
+      "lose": 6
+    }
+  },
+  {
+    "playerId": 107150877,
+    "playerName": "xzenบ้องไม้ไผ่",
+    "avatar": "https://tame-erin-sea-lion-tie.cyclic.app/images/xzen.jpg",
+    "wl": {
+      "win": 5,
+      "lose": 5
+    }
+  },
+  {
+    "playerId": 194723630,
+    "playerName": "ไอฉิน",
+    "avatar": "https://tame-erin-sea-lion-tie.cyclic.app/images/koon.jpg",
+    "wl": {
+      "win": 3,
+      "lose": 7
+    }
+  },
+  {
+    "playerId": 203825222,
+    "playerName": "ไอชุน",
+    "avatar": "https://tame-erin-sea-lion-tie.cyclic.app/images/koon.jpg",
+    "wl": {
+      "win": 5,
+      "lose": 5
+    }
+  },
+  {
+    "playerId": 100719034,
+    "playerName": "เดอะนอส",
+    "avatar": "https://tame-erin-sea-lion-tie.cyclic.app/images/thenos.jpg",
+    "wl": {
+      "win": 6,
+      "lose": 4
+    }
+  }
+]
