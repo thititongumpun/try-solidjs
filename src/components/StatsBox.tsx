@@ -15,7 +15,7 @@ const StatsBox: Component<StatsBoxProps> = ({ stats }) => {
       <p class="text-xl my-2">Lose: {stats.wl.lose}</p>
       <div class="grid grid-cols-1 gap-4 md:grid-cols-5">
         <img
-          class="rounded-lg w-20 h-20 md:w-32 md:h-32"
+          class="rounded-lg w-20 h-20 md:w-44 md:h-36"
           src={stats.avatar}
           alt={stats.playerName}
           loading="lazy"

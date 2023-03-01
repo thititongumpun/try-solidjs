@@ -16,7 +16,7 @@ const App: Component = () => {
   return (
     <div class="flex flex-col justify-center items-center p-10">
       <h2 class="font-medium text-4xl my-5">Dota2 Stats</h2>
-      <div class="w-fit">
+      <div class="w-fit h-full grid grid-cols-1 lg:grid-cols-2">
         <For each={stats()} fallback={<p>Loading...</p>}>
           {(stat) => (
             <div>
